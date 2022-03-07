@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/kanbei0605/kanbei0605/blob/main/developing.jpg" />
+  <img src="https://github.com/kanbei0605/kanbei0605/developing.jpg" />
 </p>
 
 <h3>🏆 Github Profile Trophy</h3>
