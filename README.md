@@ -1,14 +1,11 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Full Stack Engineer
+    Senior Full Stack Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/81801796?s=48&v=4">
-</p>
 
 <p align="center">
-  <img src="https://github.com/kanbei0605/kanbei0605/developing.jpg" />
+  <img src="https://https://github.com/kanbei0605/kanbei0605/blob/master/developing.jpg" />
 </p>
 
 <h3>🏆 Github Profile Trophy</h3>
