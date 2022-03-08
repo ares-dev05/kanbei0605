@@ -32,6 +32,7 @@
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Solidity, Rust
 - 📫 Interesting : OpenCV, DL and AI, Blockchain
 
+<br />
 ### Tools
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
@@ -71,6 +72,7 @@
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
+<br />
 <div align="center">
   <h2>
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
