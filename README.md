@@ -71,28 +71,16 @@
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
-<h2>
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-</h2>
-<br />
-<p>
-Email: kanbei0605@gmail.com <br />
-Skype: live:.cid.9ed45770aad1df45 <br />
-Telegram: https://t.me/superbluestart <br />
-</p>
+  <h2>
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+    How to reach me
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+  </h2>
+  <br />
+  <p>
+    Email: kanbei0605@gmail.com <br />
+    Skype: live:.cid.9ed45770aad1df45 <br />
+    Telegram: https://t.me/superbluestart <br />
+  </p>
 </div>
