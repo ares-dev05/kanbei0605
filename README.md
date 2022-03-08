@@ -19,15 +19,18 @@
   <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperBluestar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionated business partner;Experienced nodejs frontend leader;Senior nodejs backend developer;" alt="Senior nodejs backend, nodejs frontend lead developer and passionated business partner" />
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;7+%2B%20years%20of%20working%20experience;center=true&width=380&height=45">
+  </a>
 </p>
 
 ### Skills
-- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Ionic, Electron
+- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Ionic
 - 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP
-- 📫 Interesting : OpenCV, DL and AI
+- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Solidity, Rust
+- 📫 Interesting : OpenCV, DL and AI, Blockchain
 
 ### Tools
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
