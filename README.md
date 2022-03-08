@@ -80,7 +80,7 @@
   <br />
   <p>
     Email: kanbei0605@gmail.com <br />
-    Skype: live:.cid.9ed45770aad1df45 <br />
-    Telegram: https://t.me/superbluestart <br />
+    Skype: https://join.skype.com/invite/OmKhPWPXyfsB <br />
+    Telegram: https://t.me/superbluestar <br />
   </p>
 </div>
