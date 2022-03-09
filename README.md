@@ -15,13 +15,10 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperBluestar&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
-<p align="center">
-  <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperBluestar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;7+%2B%20years%20of%20working%20experience;center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;7+%2B%20years%20of%20working%20experience;width=380&height=45">
   </a>
 </p>
 
