@@ -82,6 +82,6 @@
   <p>
     Email: kanbei0605@gmail.com <br />
     Skype: https://join.skype.com/invite/OmKhPWPXyfsB <br />
-    Telegram: https://t.me/superbluestar <br />
+    Telegram: https://t.me/kanbei0605 <br />
   </p>
 </div>
