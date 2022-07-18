@@ -77,8 +77,6 @@
       How to reach me
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
   </h2>
-  <br />
-  
   <div align="center"> 
     <a href="mailto:kanbei0605@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
     &nbsp;&nbsp;
