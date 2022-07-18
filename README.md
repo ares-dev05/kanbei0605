@@ -10,12 +10,11 @@
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
+  <img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest, Issues, Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kanbei0605&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;7+%2B%20years%20of%20working%20experience&width=380&height=45">
