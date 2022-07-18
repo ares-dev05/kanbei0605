@@ -10,10 +10,10 @@
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Karl&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Karl&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kanbei0605&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 ## Skills
 
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Ionic
-- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
+- 🔭 Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Solidity, Rust
+- 💬 Language : HTML, CSS, Javascript, Typescript, Ruby, Python, PHP, Solidity, Rust
 - 📫 Interesting : OpenCV, DL and AI, Blockchain
 
 ## Tools
@@ -83,5 +83,6 @@
     Email: kanbei0605@gmail.com <br />
     Skype: https://join.skype.com/invite/OmKhPWPXyfsB <br />
     Telegram: https://t.me/kanbei0605 <br />
+    Discord: KanBei#6979 <br />
   </p>
 </div>
