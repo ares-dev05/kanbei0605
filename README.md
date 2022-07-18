@@ -10,7 +10,7 @@
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest, Issues, Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest"> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest, Issues, Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kanbei0605" alt="regismeyssonnier" /></a>
 </p>
