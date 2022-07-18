@@ -10,11 +10,10 @@
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest, Issues, Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
+  <img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&column=7&theme=onedark"/>
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kanbei0605&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-  <img src="https://github-profile-trophy.vercel.app/?username=IceDev528&column=7&theme=onedark"/>
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -79,10 +78,22 @@
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
   </h2>
   <br />
-  <p>
+  
+  <div align="center"> 
+    <a href="mailto:kanbei0605@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+    &nbsp;&nbsp;
+    <a href="https://join.skype.com/invite/OmKhPWPXyfsB" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/kanbei0605" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+    &nbsp;&nbsp;
+    <a href="https://discord.gg/CwUGFEdJZH" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+    &nbsp;&nbsp;
+  </div>
+  
+  <!-- <p>
     Mail: kanbei0605@gmail.com <br />
     Skype: https://join.skype.com/invite/OmKhPWPXyfsB <br />
     Telegram: https://t.me/kanbei0605 <br />
     Discord: KanBei#6979 <br />
-  </p>
+  </p> -->
 </div>
