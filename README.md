@@ -12,7 +12,7 @@
 <p align="center">
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest, Issues, Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest"> -->
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=regismeyssonnier" alt="regismeyssonnier" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kanbei0605" alt="regismeyssonnier" /></a>
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kanbei0605&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
