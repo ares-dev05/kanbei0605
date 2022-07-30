@@ -89,11 +89,4 @@
     <a href="https://discord.gg/7AK8VDRu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
     &nbsp;&nbsp;
   </div>
-  
-  <!-- <p>
-    Mail: kanbei0605@gmail.com <br />
-    Skype: https://join.skype.com/invite/OmKhPWPXyfsB <br />
-    Telegram: https://t.me/kanbei0605 <br />
-    Discord: KanBei#6979 <br />
-  </p> -->
 </div>
