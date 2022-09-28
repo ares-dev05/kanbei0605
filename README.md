@@ -25,9 +25,9 @@
 
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Ionic
 - 🔭 Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Ruby, Python, PHP, Solidity, Rust
-- 📫 Interesting : OpenCV, DL and AI, Blockchain
+- 📫 Interesting : AI, Blockchain
 
 ## Languagers & Tools
 
